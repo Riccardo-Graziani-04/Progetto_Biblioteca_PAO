@@ -1,0 +1,107 @@
+[
+    {
+        "age_rating": "Accompanied Teens",
+        "author": "Tony Scott",
+        "duration": 109,
+        "genre": "Action",
+        "id": 0,
+        "image": "Resources/Images/71JXK7v7pvL._AC_UF1000,1000_QL80_.png",
+        "language": "ENglish",
+        "release_year": 1986,
+        "title": "Top Gun",
+        "type": "movie"
+    },
+    {
+        "age_rating": "Accompanied Teens",
+        "author": "Joseph Kosinski",
+        "duration": 130,
+        "genre": "Action",
+        "id": 1,
+        "image": "Resources/Images/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.png",
+        "language": "English",
+        "release_year": 2022,
+        "title": "Top Gun Maverick",
+        "type": "movie"
+    },
+    {
+        "age_rating": "Adults",
+        "author": "Christopher Nolan",
+        "duration": 180,
+        "genre": "Thriller",
+        "id": 2,
+        "image": "Resources/Images/locandinapg3.png",
+        "language": "English",
+        "release_year": 2023,
+        "title": "Oppenheimer",
+        "type": "movie"
+    },
+    {
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "id": 3,
+        "image": "Resources/Images/719CeDchSsL._AC_UF1000,1000_QL80_.png",
+        "language": "Italiano",
+        "publisher": "Mondadori",
+        "release_year": 2003,
+        "title": "Il Codice Da Vinci",
+        "type": "book"
+    },
+    {
+        "author": "Dante Alighieri",
+        "genre": "Classic",
+        "id": 4,
+        "image": "Resources/Images/9788892223318_0_0_536_0_75.png",
+        "language": "Italiano",
+        "publisher": "San Paolo Edizioni",
+        "release_year": 1321,
+        "title": "La Divina Commedia",
+        "type": "book"
+    },
+    {
+        "album": "Vida",
+        "author": "Luis Fonsi",
+        "duration": 227,
+        "explicit_language": "No",
+        "genre": "Hip-Pop",
+        "id": 5,
+        "image": "Resources/Images/Untitled.png",
+        "release_year": 2017,
+        "title": "Despacito",
+        "type": "music"
+    },
+    {
+        "album": "L' Amour Toujours",
+        "author": "Gigi D' Agostino",
+        "duration": 300,
+        "explicit_language": "No",
+        "genre": "Electronic",
+        "id": 6,
+        "image": "Resources/Images/914ng7inmnL._UF1000,1000_QL80_.png",
+        "release_year": 2000,
+        "title": "L' Amour Toujours (I'll Fly with You)",
+        "type": "music"
+    },
+    {
+        "album": "Utopia",
+        "author": "Travis Scott",
+        "duration": 191,
+        "explicit_language": "Yes",
+        "genre": "Hip-Pop",
+        "id": 7,
+        "image": "Resources/Images/artworks-IaK6B1QUqgkpOUO5-9z5eeg-t500x500.png",
+        "release_year": 2023,
+        "title": "Fe!n",
+        "type": "music"
+    },
+    {
+        "author": "Robert Louis Stevenson",
+        "genre": "Classic",
+        "id": 8,
+        "image": "Resources/Images/9788807900488_0_0_536_0_75.png",
+        "language": "Italiano",
+        "publisher": "Feltrinelli",
+        "release_year": 1886,
+        "title": "Lo strano caso del dottor Jekyll e del signor Hyde",
+        "type": "book"
+    }
+]

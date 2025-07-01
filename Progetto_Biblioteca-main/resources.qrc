@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resources/book.png</file>
+        <file>Resources/movie.png</file>
+        <file>Resources/music.png</file>
+	<file>Resources/file.png</file>
+	<file>Resources/new_file.png</file>
+	<file>Resources/open_file.png</file>
+	<file>Resources/save_file.png</file>
+	<file>Resources/new_item.png</file>
+	<file>Resources/info.png</file>
+	<file>Resources/edit.png</file>
+	<file>Resources/delete.png</file>
+	<file>Resources/rewind.png</file>
+	<file>Resources/play_pause.png</file>
+	<file>Resources/forward.png</file>
+	<file>Resources/filter.png</file>
+    </qresource>
+</RCC>
